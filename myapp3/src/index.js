@@ -3,15 +3,24 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import App1 from './App1';
+import App4 from './App4';
+import App5 from './components/App5';
+import dypcet from './pages/dypcet';
 import reportWebVitals from './reportWebVitals';
-
+import App2 from './pages/dypcet';
+import App6 from './pages/dypcet2';
 
 //hi i am ankit 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     {/* <App /> */}
-   <App1 />
+   {/* <App1 /> */}
+   {/* <App4 /> */}
+   <App2 />
+     {/* <App5/>  */}
+     {/* <App6/> */}
+
   </React.StrictMode>
 );
 
