@@ -14,3 +14,5 @@ MERN Stack DEV !!
     react componet ,file stcture etc 
 
     myappday1 folder not opening 
+
+    issues fixed
