@@ -13,4 +13,4 @@ MERN Stack DEV !!
     react ,jsx,js,ts,tsx
     react componet ,file stcture etc 
 
-    
+    myappday1 folder not opening 
