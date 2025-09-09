@@ -19,7 +19,7 @@ import PhotoLibraryIcon from "@mui/icons-material/PhotoLibrary";
 const theme = createTheme({
   palette: {
     primary: {
-      main: "#23119aff", // Purple
+      main: "#23119aff", // Purplessss
     },
     secondary: {
       main: "#ebf3f5ff", // Orange (for highlights if needed)
