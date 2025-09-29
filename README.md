@@ -15,4 +15,9 @@ MERN Stack DEV !!
 
     myappday1 folder not opening 
 
-    issues fixed
+    issues fixed 
+
+
+
+ 22/09/2025--> cleaning and making all code centralized in one repo
+           --mui node js and dypcet clone in one directory setting up
