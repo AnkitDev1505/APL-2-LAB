@@ -1,0 +1,2 @@
+Initial data written synchronously.
+Additional line appended using Promises.
