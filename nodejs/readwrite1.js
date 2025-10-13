@@ -2,7 +2,7 @@
 const fs = require('fs');
 const fsPromises = require('fs').promises;
 
-// === 1. Synchronous File Write ===
+
 function writeSyncFile() {
   console.log("=== Step 1: Writing file synchronously ===");
   const data = "Initial data written synchronously.\n";
@@ -10,7 +10,7 @@ function writeSyncFile() {
   console.log("✅ File written successfully (sync).");
 }
 
-// === 2. Asynchronous File Read (Callback style) ===
+
 function readAsyncFile(callback) {
   console.log("\n=== Step 2: Reading file asynchronously (callback) ===");
   fs.readFile('data.txt', 'utf8', (err, data) => {
@@ -23,7 +23,7 @@ function readAsyncFile(callback) {
   });
 }
 
-// === 3. Append Data using Promises ===
+
 function appendWithPromise() {
   console.log("\n=== Step 3: Appending file using Promises ===");
   const newData = "Additional line appended using Promises.\n";
@@ -32,7 +32,7 @@ function appendWithPromise() {
     .catch(err => console.error("❌ Error appending file:", err));
 }
 
-// === 4. Read Everything Again using async/await ===
+
 async function readWithAsyncAwait() {
   console.log("\n=== Step 4: Reading file using async/await ===");
   try {
@@ -43,7 +43,7 @@ async function readWithAsyncAwait() {
   }
 }
 
-// === Main Workflow ===
+
 function main() {
   writeSyncFile();
 
@@ -56,5 +56,5 @@ function main() {
   });
 }
 
-// Run the program
+
 main();
