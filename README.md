@@ -23,3 +23,7 @@ MERN Stack DEV !!
            --mui node js and dypcet clone in one directory setting up
 
  29/09/2025 --> final dypcet clone done node js program done          
+
+6/10 --> call back etc
+13/10 --> read write file 
+14/10 --> mkdir 
