@@ -32,7 +32,7 @@ import {
   Box,
 } from '@mui/material';
 
-function App() {
+function mui1() {
   const [dropdownValue, setDropdownValue] = useState('');
   const [checkboxChecked, setCheckboxChecked] = useState(false);
   const [radioValue, setRadioValue] = useState('option1');
@@ -184,4 +184,4 @@ function App() {
   );
 }
 
-export default App;
+export default mui1;

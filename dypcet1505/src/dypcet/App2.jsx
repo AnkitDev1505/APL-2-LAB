@@ -23,7 +23,7 @@ import MenuBookIcon from "@mui/icons-material/MenuBook";
 import NotificationsIcon from "@mui/icons-material/Notifications";
 import PhotoLibraryIcon from "@mui/icons-material/PhotoLibrary";
 
-export default function App() {
+export default function App2() {
   // Light/Dark toggle
   const [mode, setMode] = useState("light");
 

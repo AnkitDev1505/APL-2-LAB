@@ -1,19 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App';
-// import mui1 from './mui'
-// import App2 from './dypcet';
-// import tech from './IT'
+import tech from './App';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
-    {/* <mui1/> */}
-    {/* <App2/> */}
-    {/* <tech/> */}
+    < tech />
   </React.StrictMode>
 );
 
