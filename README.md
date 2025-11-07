@@ -27,3 +27,9 @@ MERN Stack DEV !!
 6/10 --> call back etc
 13/10 --> read write file 
 14/10 --> mkdir 
+## REACT JS
+## DYPCET CLONE 
+## IT FIRM LANDING PAGES 
+## NODE JS 
+## EXPRESS js
+## MONGODB
